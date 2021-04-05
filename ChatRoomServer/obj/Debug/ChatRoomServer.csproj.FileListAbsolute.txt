@@ -1,0 +1,6 @@
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomServer\bin\Debug\ChatRoomServer.exe.config
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomServer\bin\Debug\ChatRoomServer.exe
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomServer\bin\Debug\ChatRoomServer.pdb
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomServer\obj\Debug\ChatRoomServer.exe
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomServer\obj\Debug\ChatRoomServer.pdb
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomServer\obj\Debug\ChatRoomServer.csprojResolveAssemblyReference.cache

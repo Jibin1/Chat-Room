@@ -1,0 +1,16 @@
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomClient\obj\Debug\ChatRoomClient.csprojResolveAssemblyReference.cache
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomClient\obj\Debug\ChatRoomClient.csproj.GenerateResource.Cache
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomClient\bin\Debug\ChatRoomClient.exe.config
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomClient\bin\Debug\ChatRoomClient.exe
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomClient\bin\Debug\ChatRoomClient.pdb
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomClient\obj\Debug\ChatRoomClient.ChatWindow.resources
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomClient\obj\Debug\ChatRoomClient.exe
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoomClient\obj\Debug\ChatRoomClient.pdb
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoom\ChatRoomClient\bin\Debug\ChatRoomClient.exe.config
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.exe
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.pdb
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoom\ChatRoomClient\bin\Debug\ChatRoomClient.exe
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoom\ChatRoomClient\bin\Debug\ChatRoomClient.pdb
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.csprojResolveAssemblyReference.cache
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.ChatWindow.resources
+C:\Users\Jibin\Desktop\Jibin\Codeacademy\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.csproj.GenerateResource.Cache
